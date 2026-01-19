@@ -1,7 +1,7 @@
 -- neon_admin_no_matrix.lua
 -- Client-side admin panel (Neon hacker theme, no matrix effect)
 -- Intended to be executed on the client via:
--- loadstring(game:HttpGet("RAW_URL"))()
+-- loadstring(game:HttpGet("https://github.com/MegaCode111REAL/NeonScript-Roblox-NO-KEY/blob/main/NeonScript.lua"))()
 
 local Players = game:GetService("Players")
 local RunService = game:GetService("RunService")
